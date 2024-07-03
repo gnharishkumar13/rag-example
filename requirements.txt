@@ -20,3 +20,4 @@ gradio
 langchain-pinecone
 chromadb
 lark
+openpyxl
